@@ -37,51 +37,11 @@ export default function Header() {
                     <a href="03_grey-explore.html">
                       Countries<span></span>
                     </a>
-                    <ul>
-                      <li>
-                        <a href="03_grey-explore.html">Explore</a>
-                      </li>
-                      <li>
-                        <a href="03_grey-explore-2.html">Explore 2</a>
-                      </li>
-                      <li>
-                        <a href="03_grey-explore-music-nft.html">
-                          New: Music NFT
-                        </a>
-                      </li>
-                      <li>
-                        <a href="03_grey-collection.html">Collections</a>
-                      </li>
-                      <li>
-                        <a href="03_grey-live-auction.html">Live Auction</a>
-                      </li>
-                      <li>
-                        <a href="03_grey-item-details.html">Item Details</a>
-                      </li>
-                      <li>
-                        <a href="03_grey-help-center.html">Help Center</a>
-                      </li>
-                    </ul>
                   </li>
                   <li>
                     <a href="03_grey-author.html">
                       Types<span></span>
                     </a>
-                    <ul>
-                      <li>
-                        <a href="03_grey-author.html">Author</a>
-                      </li>
-                      <li>
-                        <a href="03_grey-profile.html">Profile</a>
-                      </li>
-
-                      <li>
-                        <a href="03_grey-create-options.html">Create</a>
-                      </li>
-                      <li>
-                        <a href="03_grey-login.html">Login</a>
-                      </li>
-                    </ul>
                   </li>
                 </ul>
 

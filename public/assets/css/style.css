@@ -17131,3 +17131,8 @@ img {
 footer .col-md-12 {
     text-align: center;
 }
+
+header img {
+    width: 37px;
+    height: 37px;
+}
