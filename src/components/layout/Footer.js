@@ -14,9 +14,6 @@ export default function () {
                   <a href="#">All NFTs</a>
                 </li>
                 <li>
-                  <a href="#">Souvenir Meal</a>
-                </li>
-                <li>
                   <a href="#">Celebrity Souvenir NFT</a>
                 </li>
                 <li>

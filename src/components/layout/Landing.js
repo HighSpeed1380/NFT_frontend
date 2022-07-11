@@ -30,7 +30,7 @@ export default function () {
                   CELEBRITY NFTs
                 </h1>
                 <p className="wow fadeInUp lead" data-wow-delay="2s">
-                  <h4>The world largest useful NFTs</h4>
+                  <h4>The largest collection of NFTs with purpose</h4>
                 </p>
                 <div className="mb-sm-30"></div>
 
@@ -80,7 +80,7 @@ export default function () {
               <div className="de-card has-border text-center">
                 <i className="wow fadeInUp bg-color-2 i-boxed icon_wallet"></i>
                 <div className="text">
-                  <h4 className="wow fadeInUp">Set up your wallet</h4>
+                  <h4 className="wow fadeInUp">Login with your wallet</h4>
                 </div>
               </div>
             </div>

@@ -21,7 +21,7 @@ export default function Header() {
                     id="quick_search"
                     className="xs-hide style-1"
                     name="quick_search"
-                    placeholder="search"
+                    placeholder="Search"
                     type="text"
                   />
                 </div>
