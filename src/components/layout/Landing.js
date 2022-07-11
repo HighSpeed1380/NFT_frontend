@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import "../../App.css";
 
 export default function () {
   useEffect(() => {}, []);
@@ -23,12 +24,14 @@ export default function () {
                   </span>
                 </h6>
                 <div className="spacer-10"></div>
-                <h1
-                  className="s1 text-uppercase wow fadeInUp"
+                <span
+                  className="s1 text-uppercase wow fadeInUp font-resize"
                   data-wow-delay=".75s"
                 >
-                  CELEBRITY NFTs
-                </h1>
+                  CELEBRITY <br />
+                  <br />
+                  NFTs
+                </span>
                 <p className="wow fadeInUp lead" data-wow-delay="2s">
                   <h4>The largest collection of NFTs with purpose</h4>
                 </p>
@@ -42,7 +45,7 @@ export default function () {
                   Explore
                 </a>
               </div>
-              <div className="col-md-6 offset-md-1 xs-hide">
+              <div className="col-md-6 offset-md-1">
                 <img
                   src="/assets/images/misc/women-statue.png"
                   className="lazy img-fluid wow fadeIn"

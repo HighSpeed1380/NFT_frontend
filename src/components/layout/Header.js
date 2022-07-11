@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import "../../App.css";
 
 export default function Header() {
   return (
@@ -19,7 +20,7 @@ export default function Header() {
                 <div className="de-flex-col">
                   <input
                     id="quick_search"
-                    className="xs-hide style-1"
+                    className="xs-hide style-1 form-element"
                     name="quick_search"
                     placeholder="Search"
                     type="text"
@@ -45,13 +46,14 @@ export default function Header() {
                   </li>
                 </ul>
 
-                <div class="menu_side_area">
+                <div className="menu_side_area">
                   <Link to="/connect_wallet">
-                    <a class="btn-main btn-wallet">
-                      <i class="icon_wallet_alt"></i>
+                    <a className="btn-main btn-wallet">
+                      <i className="icon_wallet_alt"></i>
                       <span>Connect Wallet</span>
                     </a>
                   </Link>
+                  <span id="menu-btn"></span>
                 </div>
               </div>
             </div>

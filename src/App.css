@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+/* @media screen and (max-width: 700px) {
+  .font-resize {
+    font-size: 65px ;
+  }
+} */
+ .font-resize {
+  font-size: 80px;
+ }
+
