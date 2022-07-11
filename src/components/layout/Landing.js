@@ -27,7 +27,11 @@ export default function () {
                 >
                   CELEBRITY NFTs
                 </h1>
-                <p className="wow fadeInUp lead" data-wow-delay="2s">
+                <p
+                  className="wow fadeInUp lead"
+                  data-wow-delay="2s"
+                  style={{ "margin-left": "392px", width: "100%" }}
+                >
                   The world largest useful NFTs
                 </p>
                 <div className="mb-sm-30"></div>

@@ -11,7 +11,7 @@ export default function Header() {
               <div className="de-flex-col">
                 <div className="de-flex-col">
                   <div id="logo">
-                    <a href="03_grey-index.html">
+                    <a>
                       <img alt="" src="/assets/images/logo-6.png" />
                     </a>
                   </div>
@@ -19,11 +19,14 @@ export default function Header() {
                 <div className="de-flex-col">
                   <input
                     id="quick_search"
-                    className="xs-hide style-2"
+                    className="xs-hide style-1"
                     name="quick_search"
                     placeholder="search"
                     type="text"
                   />
+                </div>
+                <div className="de-flex-col ">
+                  <h6>Search</h6>
                 </div>
               </div>
               <div className="de-flex-col header-col-mid">

@@ -22,7 +22,7 @@ export default function Connect_wallet() {
           <div className="container">
             <div className="row">
               <div className="col-lg-12 mb30">
-                <a className="box-url" href="03_grey-login.html">
+                <a className="box-url">
                   <span className="box-url-label">Most Popular</span>
                   <img
                     src="assets/images/wallet/1.png"

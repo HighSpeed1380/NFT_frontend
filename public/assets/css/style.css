@@ -17136,3 +17136,12 @@ header img {
     width: 37px;
     height: 37px;
 }
+
+#quick_search {
+    width: auto;
+}
+
+header h6 {
+    margin-left: 10%;
+    margin-top: 15%;
+}
