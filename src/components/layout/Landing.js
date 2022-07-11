@@ -1,6 +1,8 @@
-import React from "react";
+import React, { useEffect } from "react";
 
 export default function () {
+  useEffect(() => {}, []);
+
   return (
     <div className="no-bottom no-top" id="content">
       <div id="top"></div>

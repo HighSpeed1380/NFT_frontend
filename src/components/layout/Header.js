@@ -32,9 +32,9 @@ export default function Header() {
               <div className="de-flex-col header-col-mid">
                 <ul id="mainmenu">
                   <li>
-                    <Link to="/">
+                    <a href="/">
                       Home<span></span>
-                    </Link>
+                    </a>
                   </li>
                   <li>
                     <a>
@@ -49,12 +49,12 @@ export default function Header() {
                 </ul>
 
                 <div class="menu_side_area">
-                  {/* <Link to="/connect_wallet"> */}
-                  <a class="btn-main btn-wallet">
-                    <i class="icon_wallet_alt"></i>
-                    <span>Connect Wallet</span>
-                  </a>
-                  {/* </Link> */}
+                  <Link to="/connect_wallet">
+                    <a class="btn-main btn-wallet">
+                      <i class="icon_wallet_alt"></i>
+                      <span>Connect Wallet</span>
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>
