@@ -34,24 +34,24 @@ export default function Header() {
                     </Link>
                   </li>
                   <li>
-                    <a href="03_grey-explore.html">
+                    <a>
                       Countries<span></span>
                     </a>
                   </li>
                   <li>
-                    <a href="03_grey-author.html">
+                    <a>
                       Types<span></span>
                     </a>
                   </li>
                 </ul>
 
                 <div class="menu_side_area">
-                  <Link to="/connect_wallet">
-                    <a class="btn-main btn-wallet">
-                      <i class="icon_wallet_alt"></i>
-                      <span>Connect Wallet</span>
-                    </a>
-                  </Link>
+                  {/* <Link to="/connect_wallet"> */}
+                  <a class="btn-main btn-wallet">
+                    <i class="icon_wallet_alt"></i>
+                    <span>Connect Wallet</span>
+                  </a>
+                  {/* </Link> */}
                 </div>
               </div>
             </div>
