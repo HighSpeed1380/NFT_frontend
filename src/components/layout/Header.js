@@ -12,7 +12,7 @@ export default function Header() {
                 <div className="de-flex-col">
                   <div id="logo">
                     <a>
-                      <img alt="" src="/assets/images/logo-6.png" />
+                      <img alt="" src="/assets/images/logo-6.jpg" />
                     </a>
                   </div>
                 </div>
@@ -24,9 +24,6 @@ export default function Header() {
                     placeholder="search"
                     type="text"
                   />
-                </div>
-                <div className="de-flex-col ">
-                  <h6>Search</h6>
                 </div>
               </div>
               <div className="de-flex-col header-col-mid">
