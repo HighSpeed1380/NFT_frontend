@@ -37,12 +37,16 @@
   }
 }
 
-/* @media screen and (max-width: 700px) {
-  .font-resize {
-    font-size: 65px ;
-  }
-} */
- .font-resize {
-  font-size: 80px;
- }
+.font-resize {
+  font-size: 70px;
+}
+
+ .form-element {
+  display: table-cell;
+  box-sizing: border-box;
+}
+
+.xs-hide {
+        display: none;
+    }
 
