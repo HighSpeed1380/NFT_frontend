@@ -38,15 +38,11 @@
 }
 
 .font-resize {
-  font-size: 70px;
+  font-size: 65px;
 }
 
  .form-element {
   display: table-cell;
   box-sizing: border-box;
 }
-
-.xs-hide {
-        display: none;
-    }
 

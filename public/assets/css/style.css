@@ -16261,7 +16261,7 @@ img {
 
     header.header-mobile {
         overflow: hidden;
-        position: relative;
+        position: fixed;
     }
 
     header.header-mobile #mainmenu {
@@ -16735,7 +16735,7 @@ img {
 @media only screen and (max-width: 767px) {
 
     #de-carousel h1{
-        font-size: 8vw;
+        font-size: 8vw; 
     }
 
     .de-table.table-rank thead th:nth-child(5),
@@ -17146,3 +17146,18 @@ header h6 {
     margin-top: 15%;
 }
 
+@media only screen and (max-width: 639px) {
+    
+    .header_mobile {
+      position: fixed !important;
+    }
+    
+    .xs-hide {
+        display: none !important;
+    }
+}
+
+
+.legends {
+    font-size: 30px ;
+}

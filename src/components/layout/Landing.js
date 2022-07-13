@@ -18,11 +18,11 @@ export default function () {
             <div className="row align-items-center">
               <div className="col-md-5">
                 <div className="spacer-single"></div>
-                <h6 className="s1 wow fadeInUp" data-wow-delay=".5s">
-                  <span className="text-uppercase">
+                <span className="s1 wow fadeInUp legends" data-wow-delay=".5s">
+                  <span className="text-uppercase ">
                     DS Legends Pte Ltd Presents
                   </span>
-                </h6>
+                </span>
                 <div className="spacer-10"></div>
                 <span
                   className="s1 text-uppercase wow fadeInUp font-resize"
@@ -32,13 +32,13 @@ export default function () {
                   <br />
                   NFTs
                 </span>
-                <p className="wow fadeInUp lead" data-wow-delay="2s">
+                <span className="wow fadeInUp lead" data-wow-delay="2s">
                   <h4>The largest collection of NFTs with purpose</h4>
-                </p>
+                </span>
                 <div className="mb-sm-30"></div>
 
                 <a
-                  href="03_grey-explore.html"
+                  href="#"
                   className="btn-main wow fadeInUp lead"
                   data-wow-delay="1.25s"
                 >
@@ -48,7 +48,7 @@ export default function () {
               <div className="col-md-6 offset-md-1">
                 <img
                   src="/assets/images/misc/women-statue.png"
-                  className="lazy img-fluid wow fadeIn"
+                  className="lazy img-fluid wow fadeIn xs-hide"
                   data-wow-delay="1.25s"
                   alt=""
                 />
@@ -57,7 +57,7 @@ export default function () {
           </div>
         </div>
         <a
-          href="#section-intro"
+          href=""
           className="mouse-icon-click scroll-to wow fadeInUp"
           data-wow-delay="2s"
         >
@@ -131,7 +131,7 @@ export default function () {
                   ></div>
                   <div className="author_list_pp">
                     <a
-                      href="03_grey-author.html"
+                      href="#"
                       data-bs-toggle="tooltip"
                       data-bs-placement="top"
                       title="Creator: Monica Lucas"
@@ -168,7 +168,7 @@ export default function () {
                         </div>
                       </div>
                     </div>
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <div className="d-placeholder"></div>
                       <img
                         src="/assets/images/items-alt/static-8.jpg"
@@ -178,7 +178,7 @@ export default function () {
                     </a>
                   </div>
                   <div className="nft__item_info">
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <h4>Delectus Antiendotoxin</h4>
                     </a>
                     <div className="nft__item_click">
@@ -201,7 +201,7 @@ export default function () {
                 <div className="nft__item style-2">
                   <div className="author_list_pp">
                     <a
-                      href="03_grey-author.html"
+                      href="#"
                       data-bs-toggle="tooltip"
                       data-bs-placement="top"
                       title="Creator: Stacy Long"
@@ -238,7 +238,7 @@ export default function () {
                         </div>
                       </div>
                     </div>
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <div className="d-placeholder"></div>
                       <img
                         src="/assets/images/items-alt/static-10.jpg"
@@ -248,7 +248,7 @@ export default function () {
                     </a>
                   </div>
                   <div className="nft__item_info">
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <h4>Surfusion Underfalconer</h4>
                     </a>
                     <div className="nft__item_click">
@@ -278,7 +278,7 @@ export default function () {
                   ></div>
                   <div className="author_list_pp">
                     <a
-                      href="03_grey-author.html"
+                      href="#"
                       data-bs-toggle="tooltip"
                       data-bs-placement="top"
                       title="Creator: Ida Chapman"
@@ -315,7 +315,7 @@ export default function () {
                         </div>
                       </div>
                     </div>
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <div className="d-placeholder"></div>
                       <img
                         src="/assets/images/items-alt/static-9.jpg"
@@ -325,7 +325,7 @@ export default function () {
                     </a>
                   </div>
                   <div className="nft__item_info">
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <h4>Buccocervical #203</h4>
                     </a>
                     <div className="nft__item_click">
@@ -348,7 +348,7 @@ export default function () {
                 <div className="nft__item style-2">
                   <div className="author_list_pp">
                     <a
-                      href="03_grey-author.html"
+                      href="#"
                       data-bs-toggle="tooltip"
                       data-bs-placement="top"
                       title="Creator: Fred Ryan"
@@ -385,7 +385,7 @@ export default function () {
                         </div>
                       </div>
                     </div>
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <div className="d-placeholder"></div>
                       <img
                         src="/assets/images/items-alt/static-7.jpg"
@@ -395,7 +395,7 @@ export default function () {
                     </a>
                   </div>
                   <div className="nft__item_info">
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <h4>AnimeSailorClub #304</h4>
                     </a>
                     <div className="nft__item_click">
@@ -418,7 +418,7 @@ export default function () {
                 <div className="nft__item style-2">
                   <div className="author_list_pp">
                     <a
-                      href="03_grey-author.html"
+                      href="#"
                       data-bs-toggle="tooltip"
                       data-bs-placement="top"
                       title="Creator: Franklin Greer"
@@ -455,7 +455,7 @@ export default function () {
                         </div>
                       </div>
                     </div>
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <div className="d-placeholder"></div>
                       <img
                         src="/assets/images/items/anim-4.webp"
@@ -465,7 +465,7 @@ export default function () {
                     </a>
                   </div>
                   <div className="nft__item_info">
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <h4>The Truth</h4>
                     </a>
                     <div className="nft__item_click">
@@ -495,7 +495,7 @@ export default function () {
                   ></div>
                   <div className="author_list_pp">
                     <a
-                      href="03_grey-author.html"
+                      href="#"
                       data-bs-toggle="tooltip"
                       data-bs-placement="top"
                       title="Creator: Mamie Barnett"
@@ -532,7 +532,7 @@ export default function () {
                         </div>
                       </div>
                     </div>
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <div className="d-placeholder"></div>
                       <img
                         src="/assets/images/items-alt/static-5.jpg"
@@ -542,7 +542,7 @@ export default function () {
                     </a>
                   </div>
                   <div className="nft__item_info">
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <h4>Running Puppets</h4>
                     </a>
                     <div className="nft__item_click">
@@ -565,7 +565,7 @@ export default function () {
                 <div className="nft__item style-2">
                   <div className="author_list_pp">
                     <a
-                      href="03_grey-author.html"
+                      href="#"
                       data-bs-toggle="tooltip"
                       data-bs-placement="top"
                       title="Creator: Nicholas Daniels"
@@ -602,7 +602,7 @@ export default function () {
                         </div>
                       </div>
                     </div>
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <div className="d-placeholder"></div>
                       <img
                         src="/assets/images/items-alt/static-6.jpg"
@@ -612,7 +612,7 @@ export default function () {
                     </a>
                   </div>
                   <div className="nft__item_info">
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <h4>Green Frogman</h4>
                     </a>
                     <div className="nft__item_click">
@@ -642,7 +642,7 @@ export default function () {
                   ></div>
                   <div className="author_list_pp">
                     <a
-                      href="03_grey-author.html"
+                      href="#"
                       data-bs-toggle="tooltip"
                       data-bs-placement="top"
                       title="Creator: Gigaland"
@@ -679,7 +679,7 @@ export default function () {
                         </div>
                       </div>
                     </div>
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <div className="d-placeholder"></div>
                       <img
                         src="/assets/images/items/anim-5.webp"
@@ -689,7 +689,7 @@ export default function () {
                     </a>
                   </div>
                   <div className="nft__item_info">
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <h4>Loop Donut</h4>
                     </a>
                     <div className="nft__item_click">
@@ -735,7 +735,7 @@ export default function () {
                   ></div>
                   <div className="author_list_pp">
                     <a
-                      href="03_grey-author.html"
+                      href="#"
                       data-bs-toggle="tooltip"
                       data-bs-placement="top"
                       title="Creator: Monica Lucas"
@@ -772,7 +772,7 @@ export default function () {
                         </div>
                       </div>
                     </div>
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <div className="d-placeholder"></div>
                       <img
                         src="/assets/images/items-alt/static-8.jpg"
@@ -782,7 +782,7 @@ export default function () {
                     </a>
                   </div>
                   <div className="nft__item_info">
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <h4>Delectus Antiendotoxin</h4>
                     </a>
                     <div className="nft__item_click">
@@ -805,7 +805,7 @@ export default function () {
                 <div className="nft__item style-2">
                   <div className="author_list_pp">
                     <a
-                      href="03_grey-author.html"
+                      href="#"
                       data-bs-toggle="tooltip"
                       data-bs-placement="top"
                       title="Creator: Stacy Long"
@@ -842,7 +842,7 @@ export default function () {
                         </div>
                       </div>
                     </div>
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <div className="d-placeholder"></div>
                       <img
                         src="/assets/images/items-alt/static-10.jpg"
@@ -852,7 +852,7 @@ export default function () {
                     </a>
                   </div>
                   <div className="nft__item_info">
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <h4>Surfusion Underfalconer</h4>
                     </a>
                     <div className="nft__item_click">
@@ -882,7 +882,7 @@ export default function () {
                   ></div>
                   <div className="author_list_pp">
                     <a
-                      href="03_grey-author.html"
+                      href="#"
                       data-bs-toggle="tooltip"
                       data-bs-placement="top"
                       title="Creator: Ida Chapman"
@@ -919,7 +919,7 @@ export default function () {
                         </div>
                       </div>
                     </div>
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <div className="d-placeholder"></div>
                       <img
                         src="/assets/images/items-alt/static-9.jpg"
@@ -929,7 +929,7 @@ export default function () {
                     </a>
                   </div>
                   <div className="nft__item_info">
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <h4>Buccocervical #203</h4>
                     </a>
                     <div className="nft__item_click">
@@ -952,7 +952,7 @@ export default function () {
                 <div className="nft__item style-2">
                   <div className="author_list_pp">
                     <a
-                      href="03_grey-author.html"
+                      href="#"
                       data-bs-toggle="tooltip"
                       data-bs-placement="top"
                       title="Creator: Fred Ryan"
@@ -989,7 +989,7 @@ export default function () {
                         </div>
                       </div>
                     </div>
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <div className="d-placeholder"></div>
                       <img
                         src="/assets/images/items-alt/static-7.jpg"
@@ -999,7 +999,7 @@ export default function () {
                     </a>
                   </div>
                   <div className="nft__item_info">
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <h4>AnimeSailorClub #304</h4>
                     </a>
                     <div className="nft__item_click">
@@ -1022,7 +1022,7 @@ export default function () {
                 <div className="nft__item style-2">
                   <div className="author_list_pp">
                     <a
-                      href="03_grey-author.html"
+                      href="#"
                       data-bs-toggle="tooltip"
                       data-bs-placement="top"
                       title="Creator: Franklin Greer"
@@ -1059,7 +1059,7 @@ export default function () {
                         </div>
                       </div>
                     </div>
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <div className="d-placeholder"></div>
                       <img
                         src="/assets/images/items/anim-4.webp"
@@ -1069,7 +1069,7 @@ export default function () {
                     </a>
                   </div>
                   <div className="nft__item_info">
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <h4>The Truth</h4>
                     </a>
                     <div className="nft__item_click">
@@ -1099,7 +1099,7 @@ export default function () {
                   ></div>
                   <div className="author_list_pp">
                     <a
-                      href="03_grey-author.html"
+                      href="#"
                       data-bs-toggle="tooltip"
                       data-bs-placement="top"
                       title="Creator: Mamie Barnett"
@@ -1136,7 +1136,7 @@ export default function () {
                         </div>
                       </div>
                     </div>
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <div className="d-placeholder"></div>
                       <img
                         src="/assets/images/items-alt/static-5.jpg"
@@ -1146,7 +1146,7 @@ export default function () {
                     </a>
                   </div>
                   <div className="nft__item_info">
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <h4>Running Puppets</h4>
                     </a>
                     <div className="nft__item_click">
@@ -1169,7 +1169,7 @@ export default function () {
                 <div className="nft__item style-2">
                   <div className="author_list_pp">
                     <a
-                      href="03_grey-author.html"
+                      href="#"
                       data-bs-toggle="tooltip"
                       data-bs-placement="top"
                       title="Creator: Nicholas Daniels"
@@ -1206,7 +1206,7 @@ export default function () {
                         </div>
                       </div>
                     </div>
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <div className="d-placeholder"></div>
                       <img
                         src="/assets/images/items-alt/static-6.jpg"
@@ -1216,7 +1216,7 @@ export default function () {
                     </a>
                   </div>
                   <div className="nft__item_info">
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <h4>Green Frogman</h4>
                     </a>
                     <div className="nft__item_click">
@@ -1246,7 +1246,7 @@ export default function () {
                   ></div>
                   <div className="author_list_pp">
                     <a
-                      href="03_grey-author.html"
+                      href="#"
                       data-bs-toggle="tooltip"
                       data-bs-placement="top"
                       title="Creator: Gigaland"
@@ -1283,7 +1283,7 @@ export default function () {
                         </div>
                       </div>
                     </div>
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <div className="d-placeholder"></div>
                       <img
                         src="/assets/images/items/anim-5.webp"
@@ -1293,7 +1293,7 @@ export default function () {
                     </a>
                   </div>
                   <div className="nft__item_info">
-                    <a href="03_grey-item-details.html">
+                    <a href="#">
                       <h4>Loop Donut</h4>
                     </a>
                     <div className="nft__item_click">
